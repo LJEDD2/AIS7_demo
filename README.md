@@ -8,4 +8,5 @@
 
 ## TIL Blog 
 💚[TIL 정리 (NAVER)](https://blog.naver.com/charzim0611)
-💛[TIL 정리 (Tistory)]([https://blog.naver.com/charzim0611](https://salryujutme.tistory.com/)
+  
+<img src="https://blogpfthumb-phinf.pstatic.net/MjAyMTA1MTZfMjE3/MDAxNjIxMDk5ODE4NTI0.X07qDb57liaBCmG-MwUWDdMeFTYL7NctPR-xQvjEoiwg.QPBaOQp-nFLER2-bAMSPD65ozCSsVdX2k7DJDBdYtX4g.JPEG.charzim0611/profileImage.jpg?type=w161">
