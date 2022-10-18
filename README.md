@@ -7,4 +7,5 @@
 - 시각화 하기
 
 ## TIL Blog 
-🧡[TIL 정리 (NAVER)](https://blog.naver.com/charzim0611)
+💚[TIL 정리 (NAVER)](https://blog.naver.com/charzim0611)
+💛[TIL 정리 (Tistory)]([https://blog.naver.com/charzim0611](https://salryujutme.tistory.com/)
