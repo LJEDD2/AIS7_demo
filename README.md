@@ -5,3 +5,6 @@
 - Streamlit으로 대시보드 만들기
 - 데이터 프레임 보여주기
 - 시각화 하기
+
+## TIL Blog 
+🧡[TIL 정리 (NAVER)](https://blog.naver.com/charzim0611)
