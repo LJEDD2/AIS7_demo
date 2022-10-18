@@ -53,5 +53,5 @@ sns.barplot(data=mpg, x="origin", y="mpg").set_title("origin 별 자동차 연�
 st.pyplot(fig)
 
 
-pxh = px.histogram(mpg,height=600, width=1500,x="cylinders", title="실린더 개수별 자동차 연비 데이터 수",  facet_col="origin")
+pxh = px.histogram(mpg,height=600, width=1000,x="cylinders", title="실린더 개수별 자동차 연비 데이터 수",  facet_col="origin")
 st.plotly_chart(pxh)
